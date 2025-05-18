@@ -13,7 +13,7 @@ Cineverse is a dynamic and responsive single-page application (SPA) built with R
 
 ## 🚀 Demo
 
-You can view the live demo here: [CineVerse Demo](https://your-live-demo-link.com)  
+You can view the live demo here: [Demo](https://cineverse-react.vercel.app/)  
 
 ---
 
@@ -30,5 +30,5 @@ You can view the live demo here: [CineVerse Demo](https://your-live-demo-link.co
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sankarasubramanian7/cineverse.git
-   cd cineverse
+   git clone https://github.com/sankarasubramanian7/Cineverse.git
+   cd Cineverse
